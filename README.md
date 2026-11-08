@@ -37,3 +37,19 @@ Para generar el jar:
 mvnw.cmd clean package -DskipTests
 java -jar target/act1-0.0.1-SNAPSHOT.jar
 ```
+
+## Demo en línea
+
+**VPS (puerto 8081)**
+- http://179.197.84.34:8081/proyecto
+- http://179.197.84.34:8081/estado
+- http://179.197.84.34:8081/alumno/datos
+- http://179.197.84.34:8081/alumno/materias
+- http://179.197.84.34:8081/alumno/semestre
+
+**Con HTTPS**
+- https://devs8.tech/proyecto
+- https://devs8.tech/estado
+- https://devs8.tech/alumno/datos
+- https://devs8.tech/alumno/materias
+- https://devs8.tech/alumno/semestre
